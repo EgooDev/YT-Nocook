@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left"><strong>-</strong> Installer le zip<br><strong>-</strong> Installer [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)<br><strong>-</strong> Telecharger les modules.<br><strong>-</strong> Lancer <strong>main.py</strong><br><strong>-</strong> Profitez de youtube sans interruptions.<strong>main.py</strong></p>
+<p align="left"><strong>-</strong> Installer le zip<br><strong>-</strong> Installer [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)<br><strong>-</strong> Ouvrez le CMD dans le fichier, tapez: pip install -r requirements.txt<br><strong>-</strong> Lancer <strong>main.py</strong><br><strong>-</strong> Profitez de youtube sans interruptions.<strong>main.py</strong></p>
 
 ###
 
